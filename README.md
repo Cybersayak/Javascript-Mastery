@@ -97,10 +97,7 @@
 
 ---
 
-
-To truly **surpass** a 10-year JS developer, you should:  
-✅ **Read the ECMAScript Specification**: Understanding how JavaScript is officially defined  
-✅ **Build Your Own JavaScript Engine (JS Interpreter)**  
-✅ **Contribute to Open-Source JavaScript Engines (e.g., V8, SpiderMonkey)**  
+ 
+✅ **Read the ECMAScript Specification**: Understanding how JavaScript is officially defined** 
 
 ---
