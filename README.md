@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 **Road to JavaScript Mastery**:  
+# 🚀 **Road to JavaScript Mastery**:  
 
 ## 🔥 **1. JavaScript Engine & Internals**  
 - **How JavaScript engines (V8, SpiderMonkey, JavaScriptCore) work internally**
