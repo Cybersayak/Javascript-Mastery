@@ -72,7 +72,7 @@
 
 ---
 
-## 🏗️ **9. JavaScript Framework Internals (React, Vue, Svelte)**  
+## 🏗️ **9. JavaScript Framework Internals **  
 - **Reactivity & Virtual DOM**: How frameworks optimize rendering  
 - **Fiber Reconciler (React 19)**: Deep dive into rendering optimizations  
 - **State Management (Redux, Zustand, Recoil, Signals, etc.)**  
