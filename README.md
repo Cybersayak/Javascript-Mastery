@@ -98,6 +98,4 @@
 ---
 
  
-✅ **Read the ECMAScript Specification**: Understanding how JavaScript is officially defined** 
 
----
